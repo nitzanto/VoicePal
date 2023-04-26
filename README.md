@@ -33,7 +33,7 @@ Eleven Labs is a natural language processing API that can generate human-like re
   <h2 align="center"><a>Todo</a></h2>
     <p align="center">
         As of 27th of April I have finished the backend part. 
-        Now I just have to finish the frontend part with UI design and connecting the front and back with AXIOS.
+        Now I just have to finish the frontend part with UI design and connecting the frontend and backend with AXIOS.
     <br />
       </p>
 </div>
