@@ -30,9 +30,10 @@ Finally, Eleven Labs is a natural language processing API that can generate huma
         <br />
       </p>
     
-  <h2 align="center"><a>Extra</a></h2>
+  <h2 align="center"><a>Todo</a></h2>
     <p align="center">
-        To add
+        As of 27th of April I have finished the backend part. 
+        Now I just have to finish the frontend part with UI design and connecting the front and back with AXIOS.
     <br />
       </p>
 </div>
