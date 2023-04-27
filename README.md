@@ -35,6 +35,8 @@ Eleven Labs is a natural language processing API that can generate human-like re
         As of 27th of April I have finished the backend part. 
         Now I just have to finish the frontend part with UI design and connecting the frontend and backend with AXIOS.
     <br />
+        <br />
+   As of 28th of April I have conneceted backend to frontend through axios
       </p>
 </div>
 
