@@ -7,7 +7,7 @@
   <h3 align="center">VoicePal</h3>
 
   <p align="center">
-    VoicePal is an AI-powered chatbot project that leverages React, FAST API, Python, Eleven Labs, and Open AI to provide users with an engaging and interactive conversational experience. With VoicePal, users can choose to chat with a friend, an interviewer, or an AI voice assistant, depending on their needs and preferences.
+    VoicePal is an AI-powered chatbot project that leverages a lot of technologies provide users with an engaging and interactive conversational experience. With VoicePal, users can choose to chat with a friend, an interviewer, or an AI voice assistant, depending on their needs and preferences.
     <br />
     <a href="https://beta.elevenlabs.io/"><strong>Explore Eleven Labs »</strong></a>
     <br />
@@ -23,9 +23,7 @@
   <h2 align="center"><a>Overview</a></h2>
 
   <p align="center">
-   VoicePal is an AI-powered chatbot project that leverages React, FAST API, Python, Eleven Labs, and Open AI to provide users with an engaging and interactive conversational experience. With VoicePal, users can choose to chat with a friend, an interviewer, or an AI voice assistant, depending on their needs and preferences.
-
-Eleven Labs is a natural language processing API that can generate human-like responses to user inputs. When combined, these technologies allow VoicePal to provide a conversational experience that feels natural and engaging to users.
+   VoicePal is an innovative AI-powered chatbot project that utilizes cutting-edge technologies such as TypeScript, React, FAST API, Python, Eleven Labs, and Open AI to deliver a highly engaging and interactive conversational experience. With VoicePal, users can select from a range of options, such as chatting with a friend, conducting a job interview, or interacting with an AI voice assistant, depending on their specific needs and preferences. The platform is designed to provide a seamless and enjoyable user experience, while also leveraging the latest in AI technology to create more natural and lifelike conversations.
     <br />
         <br />
       </p>
