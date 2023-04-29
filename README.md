@@ -15,9 +15,13 @@
     <h2><a>Demonstration</a></h2>
     <br />
     <br />
-    <video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/120420731/235327637-a0c19433-80ce-416e-95ca-290763e59134.mp4" type="video/mp4">
+    
   </p>
+  
+
+https://user-images.githubusercontent.com/120420731/235327840-239f4c2f-043b-4b46-9450-9f68cb15355c.mp4
+
+
   
   <h2 align="center"><a>Overview</a></h2>
 
@@ -48,7 +52,9 @@
 - [x] Released a fully functional and stable version - 1.0
 - [ ] Extra tweaks
     - [ ] Finishing the readme file
-    - [ ] Adding instructions
+    - [ ] Adding instructions section
+    - [ ] Adding Installion section
+
 </div>
 
 
