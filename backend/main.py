@@ -57,7 +57,7 @@ async def reset_conversation():
 
 
 # Getting Audio file
-@app.post("/post-audio-get/")
+@app.post("/post-audio/")
 async def post_audio(file: UploadFile = File(...))  : # Receiving an audio from frontend to backend to Fast API
     # Get Saved audio
     # audio_input = open("voice.mp3", "rb")
@@ -79,13 +79,13 @@ async def post_audio(file: UploadFile = File(...))  : # Receiving an audio from 
     # Get ChatGPT Response
     chat_response = get_chat_response(message_decoded)
 
+     # Store the messages
+    store_messages(message_decoded, chat_response)
+
      # Guard: Ensuring we got a chat response
     if not chat_response:
         return HTTPException(status_code=400, detail="Failed to get chat response")
     
-
-    # Store the messages
-    store_messages(message_decoded, chat_response)
 
     # Converting the chat response to audio, sending to eleven labs
     audio_output = convert_text_to_speech(chat_response)
