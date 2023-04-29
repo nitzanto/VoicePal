@@ -30,15 +30,37 @@ Eleven Labs is a natural language processing API that can generate human-like re
         <br />
       </p>
     
-  <h2 align="center"><a>Todo</a></h2>
+  <h2 align="center"><a>Built With</a></h2>
     <p align="center">
-        As of 27th of April I have finished the backend part. 
-        Now I just have to finish the frontend part with UI design and connecting the frontend and backend with AXIOS.
+       <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
     <br />
-        <br />
-   As of 28th of April I have conneceted backend to frontend through axios
       </p>
 </div>
+
+
+<h2 align="center"><a>RoadMap</a></h2>
+
+   - [x] Backend part - 27th of April
+- [x] Finished UI Design with Frontend - 28th of April
+- [x] Connected frontend and backend with axios - 29th of April
+- [x] Released a fully functional and stable version - 1.0
+- [ ] Extra tweaks
+    - [ ] Finishing the readme file
+    - [ ] Adding instructions
+</div>
+
+
+<h2 align="center"><a>Installion</a></h2>
+    <p align="center">
+        <b>To add </b>
+      </p>
+</div>
+
 
 
 
