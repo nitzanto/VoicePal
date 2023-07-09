@@ -58,10 +58,7 @@ https://user-images.githubusercontent.com/120420731/235424715-9927b439-0566-491b
 - [x] Finished UI Design with Frontend - 28th of April
 - [x] Connected frontend and backend with axios - 29th of April
 - [x] Released a fully functional and stable version - 1.0
-- [ ] Extra tweaks
-    - [ ] Finishing the readme file
-    - [ ] Adding instructions section
-    - [ ] Adding Installion section
+
 
 </div>
 
