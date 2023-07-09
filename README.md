@@ -63,12 +63,6 @@ https://user-images.githubusercontent.com/120420731/235424715-9927b439-0566-491b
 </div>
 
 
-<h2 align="center"><a>Installion</a></h2>
-    <p align="center">
-        <b>To add </b>
-      </p>
-</div>
-
 
 
 
